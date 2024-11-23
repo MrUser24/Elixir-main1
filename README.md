@@ -8,7 +8,7 @@ Features
 
 Usage
 1. Clone the repository:
-   git clone https://github.com/MrUser24/Elixir.git
+   git clone https://github.com/MrUser24/Elixir-main1?
 2. Open the index.html file in your favorite browser or start a local server:
    python -m http.server
    
